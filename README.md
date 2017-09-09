@@ -12,7 +12,22 @@ Kuusipinninen liitin on ohjelmointia varten ja sitä kautta ohjelma siirretääm
 
 ![skema](kicad/kuvat/skema.svg "Skema on jotakuinkin tällainen")
 
-### piirikaavio
+### Osaluettelo
+  * 1 kpl  ATtiny861a SOIC
+  * 32 kpl sininen 3 mm diffusoitu led
+  * 4 kpl  110 Ohm 1206 smd-vastus
+  * 2 kpl  10 µF tantaalikondensaattori smd (paketti?)
+  * 1 kpl  Texas Instruments LP2981AIM5-5.0/NOPB Regulaattori sot23-5
+  * 1 kpl  palautuva kytkin (tyyppi?)
+  * 1 kpl  9v-paristolle paristoliitin
+  * 1 kpl  kuusi pinniä pitkän piikkiriman
+  
+  lisäksi tarvitset:
+  * kaksinapaista johtoa paristoliittimelle
+  * kuumaliimaa
+  * haalarimerkin :-)
+  
+### Piirikaavio
 
 1. Läpiviennit
   Kaksipuoleisessa levyssä läpiviennit kuljettavat sähkön levyn puolelta toiselle.
