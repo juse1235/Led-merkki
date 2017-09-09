@@ -6,7 +6,12 @@ Piirretty Kicadilla.
 Todo: Syövytystä varten maskit. Sik maski saattaa löytyä vielä jostain. Otitille ei ole tehty vaan levyt jyrsittiin.
 
 ### Piirilevyn kasausohje
-TODO Pittää ettiä jostain...
+![skema](kicad/kuvat/skema.svg)
+![pcb](kuvat/fcu_silk.svg)
+![front copper](kicad/kuvat/fcu.svg)
+![silkki](kicad/kuvat/silk.svg)
+![back copper](kicad/kuvat/bcu.svg)
+
 
 ## Ohjelma
 
