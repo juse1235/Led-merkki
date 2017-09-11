@@ -12,8 +12,8 @@
    height="6.8301978cm"
    viewBox="0 0 20350.385 26890.632"
    id="svg2200"
-   sodipodi:docname="possu2-F.SilkS.svg"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+   sodipodi:docname="kuva.svg"
+   inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata2206">
     <rdf:RDF>
@@ -40,12 +40,12 @@
      inkscape:window-height="900"
      id="namedview2202"
      showgrid="false"
-     inkscape:zoom="0.51907549"
+     inkscape:zoom="2.9363344"
      inkscape:cx="49.32028"
-     inkscape:cy="82.587407"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:cy="184.08962"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2200" />
   <title
      id="title2">SVG Picture created as possu2-F.SilkS.svg date 2017/09/09 12:07:12 </title>
@@ -4390,96 +4390,120 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     style="fill:#ffffff;fill-opacity:0;stroke:#008484;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      id="g2198"
      transform="translate(-12722.214,-5392.2508)">
     <path
        d="m 14217,13112 h 1250"
        id="path2154"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
     <path
        d="m 14217,15137 h 1250"
        id="path2156"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
     <path
        d="M 15467,15137 V 12737"
        id="path2158"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
     <path
        d="M 15467,12737 H 14217"
        id="path2160"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
     <path
        d="m 14217,12737 v 2400"
        id="path2162"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
     <path
        d="M 18938,8302 V 7052"
        id="path2164"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
     <path
        d="M 20963,8302 V 7052"
        id="path2166"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
     <path
        d="M 20963,7052 H 18563"
        id="path2168"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
     <path
        d="M 18563,7052 V 8302"
        id="path2170"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
     <path
        d="m 18563,8302 h 2400"
        id="path2172"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
     <path
        d="m 19823,8916 v 1300"
        id="path2174"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
     <path
-       d="m 18523,8916 v 1300"
+       d="m 18273,8916 v 1300"
        id="path2176"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff"
+       sodipodi:nodetypes="cc" />
     <path
        d="m 18273,8916 v 1300"
        id="path2178"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
     <path
        d="m 18273,10216 h 1800"
        id="path2180"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
     <path
        d="M 20073,10216 V 8916"
        id="path2182"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
     <path
        d="M 20073,8916 H 18273"
        id="path2184"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
     <path
-       d="M 16830,14468 V 13168"
+       d="M 16580,14468 V 13168"
        id="path2186"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff"
+       sodipodi:nodetypes="cc" />
     <path
        d="M 18130,14468 V 13168"
        id="path2188"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
     <path
        d="M 18380,14468 V 13168"
        id="path2190"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
     <path
        d="M 18380,13168 H 16580"
        id="path2192"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
     <path
        d="m 16580,13168 v 1300"
        id="path2194"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
     <path
        d="m 16580,14468 h 1800"
        id="path2196"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
   </g>
 </svg>
