@@ -51,6 +51,11 @@ Kuusipinninen liitin on ohjelmointia varten ja sitä kautta ohjelma siirretääm
   ![front copper](kicad/kuvat/fcu.svg)
   ![silkki](kicad/kuvat/silk.svg)
   
+  ##### Otit
+  
+   ![pcb_otit](kicad/kuvat/otit-B_Cu.svg)
+   ![silkki_otit](kicad/kuvat/otit-B_SilkS.svg)
+  
   TODO: tähän vois panna kuvan kasatusta levystä
   
 3. Regulaattori
@@ -120,6 +125,9 @@ Muista vetää arduinon Reset ylös. Ardu nollautuu kun sarjaliikenne alotetaan.
 Src hakemistossa on lediportit_oikein.h ja lediportit_väärin.h tiedostot joista jompikumpi kopioidaan lediportit.h tiedoston päälle mikäli ledit on juotettu vastoin ohjetta. (TODO: nimet ovat ehkä väärin)
 
 Koodin kääntämiseen ja ohjelman levylle siirtämiseen komennot ovat:
+
+##### Linux ja Mac
+
 ```
 // kääntäminen
 avr-gcc -mmcu=attiny861 vilkutus.c salama.c -I./ -Os -DF_CPU=8000000UL  
@@ -130,3 +138,16 @@ avrdude -c avrisp -p t861 -B3 -P /dev/ttyUSB0 -b 19200 -U flash:w:a.out
 // Fuse asetukset käyttäen arduino-isp:tä
 avrdude -c avrisp -p t861 -B3 -P /dev/ttyUSB0 -b 19200 -U lfuse:w:0xe2:m -U hfuse:w:0xdf:m
 ```
+##### Windows
+
+```
+// kääntäminen
+avr-gcc -mmcu=attiny861 vilkutus.c salama.c -I./ -Os -DF_CPU=8000000UL
+
+// Fläsäys käyttäen arduino-isp:tä
+avrdude -C "C:\Program Files (x86)\Arduino\hardware\tools\avr\etc\avrdude.conf" -c avrisp -p t861 -B3 -P COM7 -b 19200 -U flash:w:a.out
+
+// Fuse asetukset käyttäen arduino-isp:tä
+avrdude -C "C:\Program Files (x86)\Arduino\hardware\tools\avr\etc\avrdude.conf" -c avrisp -p t861 -B3 -P COM7 -b 19200 -U lfuse:w:0xe2:m -U hfuse:w:0xdf:m
+```
+Windowsilla avrdude pitää olla ympäristömuuttujissa. Toinen vaihtoehto on ajaa komento "\Arduino\hardware\tools\avr\bin"-kansiossa.
