@@ -51,6 +51,10 @@ Kuusipinninen liitin on ohjelmointia varten ja sitä kautta ohjelma siirretääm
   ![front copper](kicad/kuvat/fcu.svg)
   ![silkki](kicad/kuvat/silk.svg)
   
+  ##### Otit
+  
+   ![silkki_otit](kicad/kuvat/otit-B_SilkS.svg)
+  
   TODO: tähän vois panna kuvan kasatusta levystä
   
 3. Regulaattori
